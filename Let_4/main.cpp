@@ -22,6 +22,6 @@ int main() {
     }
     cout << "<Mobile Phone>";
     std::cout << "<Mobile Phone>";
-    delete[] phone_list;
+    delete [] phone_list;
     return 0;
 }
